@@ -212,4 +212,4 @@ if(USE_TUDAT_EXAMPLE_APPLICATIONS)
 endif()
 
 
-add_subdirectory( "${PROJECTROOT}/tudatExampleApplications/templateApplication/TemplateApplication")
+add_subdirectory( "${PROJECTROOT}/tudatApplications/MScThesis")
